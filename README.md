@@ -1,0 +1,1 @@
+Solved Coding challenges for Google Foobar
